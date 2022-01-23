@@ -1,0 +1,6 @@
+[submodule "libs/climage"]
+	path = libs/climage
+	url = https://github.com/ferhatgec/climage.git
+[submodule "libs/sdl4cpp"]
+	path = libs/sdl4cpp
+	url = https://github.com/ferhatgec/sdl4cpp.git
